@@ -24,6 +24,11 @@
       "name": "caneta azul",
       "price": "2.80",
       "id": 5
+    },
+    {
+      "name": "Computador Gamer",
+      "price": "6254.41",
+      "id": 6
     }
   ]
 }
