@@ -11,7 +11,7 @@ import { Component, OnInit } from '@angular/core';
 export class ProductUpdateComponent implements OnInit {
 
   product!: Product;
-
+  
   constructor(
     private productService: ProductService,
     private router: Router,
@@ -24,6 +24,10 @@ export class ProductUpdateComponent implements OnInit {
     this.productService.readById(id).subscribe((product) => {
       this.product = this.product;
     });
+
+    function newFunction(): string {
+      return 'id';
+    }
   }
 
   updateProduct(): void {
