@@ -2,7 +2,7 @@
   "products": [
     {
       "id": 1,
-      "name": "Caneta BIC Preta",
+      "name": "Caneta BIC Preta SIMPLES",
       "price": 5.89
     },
     {
@@ -12,8 +12,8 @@
     },
     {
       "id": 3,
-      "name": "Samsung S20+",
-      "price": 5000.89
+      "name": "Samsung A12",
+      "price": "5000.90"
     },
     {
       "name": "lapis preto",
