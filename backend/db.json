@@ -2,8 +2,8 @@
   "products": [
     {
       "id": 1,
-      "name": "Caneta BIC Preta SIMPLES",
-      "price": 5.89
+      "name": "Caneta compactor ",
+      "price": "4.00"
     },
     {
       "id": 2,
