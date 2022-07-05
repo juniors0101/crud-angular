@@ -1,29 +1,19 @@
 {
   "products": [
     {
-      "id": 1,
-      "name": "Caneta compactor ",
-      "price": "4.00"
+      "name": "Cabo USB tipo C",
+      "price": "40.44",
+      "id": 1
     },
     {
-      "id": 2,
-      "name": "Notebook MAC Pro",
-      "price": 12000.89
+      "name": "smarthphone Samsung S20+",
+      "price": "10000",
+      "id": 2
     },
     {
-      "id": 3,
-      "name": "Samsung A12",
-      "price": "5000.90"
-    },
-    {
-      "name": "lapis preto",
-      "price": "2.50",
-      "id": 4
-    },
-    {
-      "name": "shampoo",
-      "price": "13.99",
-      "id": 5
+      "name": "Notebook Acer",
+      "price": "14000",
+      "id": 3
     }
   ]
 }
