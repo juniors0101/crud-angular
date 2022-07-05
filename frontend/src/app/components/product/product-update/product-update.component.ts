@@ -10,7 +10,7 @@ import { Component, OnInit } from '@angular/core';
 })
 export class ProductUpdateComponent implements OnInit {
 
-  product!: Product;
+  product!: Product
   
   constructor(
     private productService: ProductService,
@@ -24,10 +24,6 @@ export class ProductUpdateComponent implements OnInit {
     this.productService.readById(id).subscribe((product) => {
       this.product = this.product;
     });
-
-    function newFunction(): string {
-      return 'id';
-    }
   }
 
   updateProduct(): void {

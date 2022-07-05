@@ -19,6 +19,11 @@
       "name": "lapis preto",
       "price": "2.50",
       "id": 4
+    },
+    {
+      "name": "shampoo",
+      "price": "13.99",
+      "id": 5
     }
   ]
 }
