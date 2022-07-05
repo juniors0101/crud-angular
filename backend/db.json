@@ -1,19 +1,34 @@
 {
   "products": [
     {
-      "name": "Cabo USB tipo C",
-      "price": "40.44",
+      "name": "PC Gamer Intel® Core™ i5, 8GB, SSD 256GB | GT Gamer",
+      "price": " 1686.52",
       "id": 1
     },
     {
-      "name": "smarthphone Samsung S20+",
-      "price": "10000",
+      "name": "Caixa de Som Bluetooth 10W RMS GT Connect | GT",
+      "price": "106.92",
       "id": 2
     },
     {
-      "name": "Notebook Acer",
-      "price": "14000",
+      "name": "Suporte Ajustável com Cooler para Notebook até 17\" | GT",
+      "price": "71.91",
       "id": 3
+    },
+    {
+      "name": "Caixa de Som TWS 30W RMS GT Jazz | GT",
+      "price": " 269.91",
+      "id": 4
+    },
+    {
+      "name": "Mouse com Fio USB 9318 | GT",
+      "price": "14.31",
+      "id": 5
+    },
+    {
+      "name": "Notebook GT Silver Intel® Dual-Core, 4GB, SSD 64GB, 14\", Windows 10",
+      "price": "1402.92",
+      "id": 6
     }
   ]
 }
